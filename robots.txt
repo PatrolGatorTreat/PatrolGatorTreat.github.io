@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patrolgatortreat.github.io/sitemap.xml
